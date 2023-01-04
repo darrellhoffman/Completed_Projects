@@ -1,28 +1,28 @@
 # Completed_Projects
-Data Science and AI Projects
+**Data Science and Machine Learning Projects** <br>
 
-This is a repository for DS/AI projects I have completed.
+This is a repository for DS/AI projects I have completed. <br>
 
-LiDAR Point Clouds and Tree Segmentation Files:
-single_scan_segmentation_algorithm_interact.ipynb
-Dissertation_Paper_dh (2).pdf
-Skills: LiDAR/3D Point Clouds, Algorithms, Clustering, Density
+*LiDAR Point Clouds and Tree Segmentation Files:* <br>
+single_scan_segmentation_algorithm_interact.ipynb <br>
+Dissertation_Paper_dh (2).pdf <br>
+Skills: LiDAR/3D Point Clouds, Algorithms, Clustering, Density <br>
 
-Audio Signal Extraction and Timeseries Prediction with LSTM Neural Network vs. CNN Prediction from Mel Spectrogram:
-Audio_Timeseries_Prediction.ipynb
-Skills: Deep Learning, Feature Extraction, Timeseries, Computer Vision
+*Audio Signal Extraction and Timeseries Prediction with LSTM Neural Network vs. CNN Prediction from Mel Spectrogram:* <br>
+Audio_Timeseries_Prediction.ipynb <br>
+Skills: Deep Learning, Feature Extraction, Timeseries, Computer Vision <br>
 
-Bridge Condition Analysis (Statistical Analysis):
-dhoffman_BridgeConditionAnalysis.ipynb
-Skills: Data Preparation, Distributions and Statistics, Multiple Linear Regression
+*Bridge Condition Analysis (Statistical Analysis):* <br>
+dhoffman_BridgeConditionAnalysis.ipynb <br>
+Skills: Data Preparation, Distributions and Statistics, Multiple Linear Regression <br>
 
-Flowers or Flippers? (Classification with Support Vector Machines):
-SVM_Iris_Penguin.ipynb
-Skills: Visualization, Classification
+*Flowers or Flippers? (Classification with Support Vector Machines):* <br>
+SVM_Iris_Penguin.ipynb <br>
+Skills: Visualization, Classification <br>
 
-Building a language model from scratch (NLP):
-NLP_Parsimonious_Language_Model_w_WebScraper.ipynb
-Skills: NLP, Web Scraping, Language Models
+*Building a language model from scratch (NLP):* <br>
+NLP_Parsimonious_Language_Model_w_WebScraper.ipynb <br>
+Skills: NLP, Web Scraping, Language Models <br>
 
 
 
