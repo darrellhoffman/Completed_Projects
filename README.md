@@ -20,6 +20,14 @@ Skills: Data Preparation, Distributions and Statistics, Multiple Linear Regressi
 SVM_Iris_Penguin.ipynb <br>
 Skills: Visualization, Classification <br>
 
+*Stock Market Prediction (Data Exploration and Timeseries Prediction with LSTM):* <br>
+Apple_Microsoft_Comparison_Prediction.ipynb <br>
+Skills: Visualization, Summary Statistics, Deep Learning <br>
+
+*Building a Neural Net for MNIST Classification (Deep Learning Architecture and Optimisation):* <br>
+My_Fish_Net_Optimized.ipynb <br>
+Skills: Building Multilayer Perceptrons, Hyperparameter Optimisation <br>
+
 *Building a language model from scratch (NLP):* <br>
 NLP_Parsimonious_Language_Model_w_WebScraper.ipynb <br>
 Skills: NLP, Web Scraping, Language Models <br>
